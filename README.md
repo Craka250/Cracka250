@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I’m a passionate **full-stack engineer and AI automation enthusiast** focused on building **intelligent, scalable, and impactful digital products**.
 
-I enjoy **designing clean architectures**, **automating workflows using AI agents**, and **developing modern web applications**.
+I enjoy **designing clean architectures**, **automating workflows using AI agents**, and **developing modern web and mobile applications**.
 
 Beyond coding, I blend **technology, AI, and marketing strategy** to transform ideas into **products that solve real-world problems**.
 
@@ -36,7 +36,7 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ---
 
-### 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics Dashboard
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cracka250&theme=tokyonight)
 
@@ -53,19 +53,25 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Cracka250&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
-### 📈 Developer Metrics
+## 📈 Developer Metrics Dashboard
 
 ![Metrics](https://metrics.lecoq.io/Cracka250?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&achievements=1&activity=1&config.timezone=Africa/Nairobi)
 
 ---
 
-### 👀 Profile Visitors
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Cracka250/Cracka250/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=Cracka250&color=blueviolet&style=flat-square)
 
@@ -75,5 +81,4 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 📧 Email: **otieonojobochieng19@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/job-otieno-5871ab348**  
-🌐 Portfolio: **Coming Soon 🚀**  
-
+🌐 Portfolio: **Coming Soon 🚀**
