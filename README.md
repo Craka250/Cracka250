@@ -37,6 +37,41 @@ Beyond coding, I blend technology, AI, and marketing strategy to transform ideas
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracka250&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracka250&layout=compact&theme=tokyonight)
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cracka250&theme=tokyonight&no-frame=true&row=1&column=7)
+
+### 📈 Profile Summary
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cracka250&theme=tokyonight)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Cracka250&theme=tokyo-night)
+
+![Metrics](https://metrics.lecoq.io/Cracka250?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&achievements=1&notable=1&discussions=1&activity=1&followup=1&config.timezone=Africa/Nairobi)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracka250&theme=tokyonight)
+
+
+### 📊 GitHub Dashboard
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cracka250&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Cracka250&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracka250&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracka250&layout=compact&theme=tokyonight)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Cracka250&theme=tokyo-night)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cracka250&theme=tokyonight&no-frame=true&row=1&column=7)
+
+![Metrics](https://metrics.lecoq.io/Cracka250?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&achievements=1&notable=1&discussions=1&activity=1&followup=1&config.timezone=Africa/Nairobi)
+
+
 ---
 
 ### 🌍 Connect With Me
