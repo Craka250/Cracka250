@@ -77,9 +77,8 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
 </p>
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
-
 
 ## 📊 GitHub Analytics Dashboard
 
