@@ -96,7 +96,8 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Craka250&theme=tokyonight&margin-w=10&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3"/>
 </p>
 
 ---
