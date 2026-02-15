@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI+Automation+Enthusiast;Product+Builder;Tech+%26+Marketing+Strategist;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<h3 align="center">🤖 Full-Stack Engineer | AI Automation Enthusiast | Product Builder | Tech & Marketing Strategist</h3>
+<h3 align="center"> Full-Stack Engineer | AI Automation Enthusiast | Product Builder | Tech & Marketing Strategist</h3>
 
 <p align="center">
 🚀 Building Intelligent Systems • 🌍 Tech for Impact • ⚡ Always Shipping
