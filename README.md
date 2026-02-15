@@ -108,7 +108,14 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ## 📈 Developer Metrics Dashboard
 
-![Metrics](https://metrics.lecoq.io/Craka250?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&achievements=1&activity=1&config.timezone=Africa/Nairobi)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Craka250&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Craka250&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3"/>
+</p>
 
 ---
 
