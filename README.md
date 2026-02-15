@@ -68,6 +68,13 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
 ## 📊 GitHub Analytics Dashboard
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight&cache_seconds=1800)
