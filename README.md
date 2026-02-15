@@ -38,18 +38,18 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ## 📊 GitHub Analytics Dashboard
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Craka250&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Craka250&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night&cache_seconds=1800)
 
 ---
 
@@ -67,7 +67,7 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Craka250/Cracka250/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Craka250/Cracka250/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -75,7 +75,6 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ![Visitors](https://komarev.com/ghpvc/?username=Craka250&color=blueviolet&style=flat-square)
 
----
 
 ### 🌍 Connect With Me
 
