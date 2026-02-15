@@ -29,6 +29,17 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ### 🛠 Tech Stack
 
+## 🧠 AI & Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Craka250/microfinance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Craka250&repo=microfinance&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Craka250/coffee-website-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Craka250&repo=coffee-website-frontend&theme=tokyonight"/>
+  </a>
+</p>
+
 ### 🔧 Languages & Tools
 
 <p align="center">
@@ -100,7 +111,6 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
   <img src="https://komarev.com/ghpvc/?username=Craka250&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
   <img src="https://img.shields.io/github/commit-activity/m/Craka250/Craka250?label=Monthly%20Commits&color=ff00ff&style=for-the-badge"/>
 </p>
----
 
 ## 🏆 GitHub Achievements
 
