@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:f0f&height=230&section=header&text=JOB%20OTIENO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20%7C%20Product%20Builder&descAlignY=60"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f0ff,50:ff00ff,100:00f0ff&height=260&section=header&text=JOB%20OTIENO&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Automation%20%7C%20Full-Stack%20Engineer&descAlignY=70"/>
 </p>
 
