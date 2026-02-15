@@ -96,6 +96,11 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night&cache_seconds=1800)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Craka250&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Craka250/Craka250?label=Monthly%20Commits&color=ff00ff&style=for-the-badge"/>
+</p>
+---
 
 ## 🏆 GitHub Achievements
 
