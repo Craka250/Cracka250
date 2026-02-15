@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-I’m a passionate **full-stack engineer and AI automation enthusiast** focused on building **intelligent, scalable, and impactful digital products**.
+I’m a passionate **full-stack engineer and AI automation enthusiast** focused on building **intelligent, scalable and impactful digital products**.
 
-I enjoy **designing clean architectures**, **automating workflows using AI agents**, and **developing modern web and mobile applications**.
+I enjoy **designing clean architectures**, **automating workflows using AI agents** and **developing modern web and mobile applications**.
 
-Beyond coding, I blend **technology, AI, and marketing strategy** to transform ideas into **products that solve real-world problems**.
+Beyond coding, I blend **technology, AI and marketing strategy** to transform ideas into **products that solve real-world problems**.
 
 ---
 
