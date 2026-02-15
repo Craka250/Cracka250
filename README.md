@@ -70,6 +70,18 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ## 📊 GitHub Analytics Dashboard
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Craka250&theme=tokyonight&background=00000000&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="170"/>
+</p>
+
+
+## 📊 GitHub Analytics Dashboard
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
