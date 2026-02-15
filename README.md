@@ -25,6 +25,10 @@ I enjoy **designing clean architectures**, **automating workflows using AI agent
 
 Beyond coding, I blend **technology, AI and marketing strategy** to transform ideas into **products that solve real-world problems**.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658115-eda1ef41-6b0c-4db1-bc92-7f6d35b4c9b1.gif" width="420"/>
+</p>
+
 ---
 
 ### 🛠 Tech Stack
