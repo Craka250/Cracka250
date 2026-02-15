@@ -49,7 +49,6 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55"/>
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
@@ -79,6 +78,7 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
 
 
 ## 📊 GitHub Analytics Dashboard
