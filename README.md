@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:f0f&height=230&section=header&text=JOB%20OTIENO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20%7C%20Product%20Builder&descAlignY=60"/>
+</p>
+
 <h1 align="center">
   Hi 👋, I'm Job Otieno
 </h1>
