@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 I’m a passionate **full-stack engineer and AI automation enthusiast** focused on building **intelligent, scalable and impactful digital products**.
 
 I enjoy **designing clean architectures**, **automating workflows using AI agents** and **developing modern web and mobile applications**.
@@ -27,9 +27,9 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
-### 🛠 Tech Stack
+### ⚙️ Tech Stack
 
-### 🔧 Languages & Tools
+### 💻 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -64,7 +64,7 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
-### 🌱 Life & Interests
+### ✨ Life & Interests
 - 💻 Full-stack engineer & AI learner  
 - 🤖 Exploring AI automation & agentic systems  
 - 🚀 Startup & product enthusiast  
@@ -73,7 +73,7 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
-## 💬 Dev Quote of the Day
+## 📜 Developer Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -101,7 +101,7 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
   <img src="https://img.shields.io/github/commit-activity/m/Craka250/Craka250?label=Monthly%20Commits&color=ff00ff&style=for-the-badge"/>
 </p>
 
-## 🏆 GitHub Achievements
+## 👑 Developer Honors
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight"/>
@@ -110,7 +110,7 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
-## 📈 Developer Metrics Dashboard
+## 🏆 Developer Metrics Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Craka250&theme=tokyonight"/>
@@ -123,18 +123,18 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Contribution Flow
 
 ![Snake animation](https://raw.githubusercontent.com/Craka250/Craka250/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 👀 Profile Visitors
+## 📡 Live Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=Craka250&color=blueviolet&style=flat-square)
 
 
-### 🌍 Connect With Me
+### 🤝 Let's Connect
 
 📧 Email: **otieonojobochieng19@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/job-otieno-5871ab348**  
