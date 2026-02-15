@@ -68,6 +68,16 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 
 ---
 
+## 🧠 AI & Automation Projects Showcase
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🤖 AI Workflow Agent | Autonomous AI agent that automates business workflows | OpenAI, LangChain, Python |
+| 📊 Smart Analytics Engine | Predictive analytics & visualization dashboard | React, Node.js, PostgreSQL |
+| 🛒 AI Recommendation System | Intelligent product recommendation engine | Python, ML, Firebase |
+| 🚀 Startup Automation Suite | End-to-end automation tools for startups | AI Agents, Docker, CI/CD |
+
+
 ## 💬 Dev Quote of the Day
 
 <p align="center">
