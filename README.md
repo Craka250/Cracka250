@@ -67,7 +67,7 @@ Beyond coding, I blend **technology, AI, and marketing strategy** to transform i
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Craka250/Cracka250/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Craka250/Craka250/output/github-contribution-grid-snake.svg)
 
 ---
 
